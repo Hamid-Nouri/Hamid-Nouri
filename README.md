@@ -1,6 +1,7 @@
-<a  target="_blank">
-  ![Front Page](https://github.com/Hamid-Nouri/Hamid-Nouri/blob/master/assets/144114287/a8182800-966e-4705-8a99-78d5b96f7e9b)
-</a>
-<a href="https://hamid-nouri.github.io/Portfolio/" target="_blank">
-  Click Here
-</a>
+![Front_page](https://github.com/Hamid-Nouri/Hamid-Nouri/assets/144114287/400aa832-4748-4fca-b2be-41583999da07)
+
+<div align="center" style="background-color: black; color: white; padding: 10px;">
+  <a href="https://hamid-nouri.github.io/Portfolio/" target="_blank" style="color: white; text-decoration: none;">
+    Click Here
+  </a>
+</div>
